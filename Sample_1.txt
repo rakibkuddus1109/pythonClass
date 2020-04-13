@@ -1,0 +1,7 @@
+Python is a programming language
+Django is a framwork
+This write is through writelines
+Now this is an append operation
+Python is a programming language
+Django is a framwork
+This write is through writelines
