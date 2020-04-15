@@ -1,0 +1,26 @@
+Database : Platform where we can store Database
+
+Type of database:
+    Sequential/Structured database
+    Non-sequential/Unstructured database
+
+Connect to database server : 
+    mysql -u root -p (will ask for password, XAMPP doesn't have any default password)
+
+Showing list of available databases : 
+    show databases;
+
+setup database:
+    create database <database name>;
+
+Access database:
+    use <database name>;
+
+setup table inside database:
+    create table <table name(<column name> <column datatype>)>;
+
+To see table in database:
+    show tables;
+
+See definition/description of table (will give details of table like column name, ):
+    desc <table name>;

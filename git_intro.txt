@@ -1,0 +1,17 @@
+Git should be downloaded
+
+git status : For checking the status of git repo
+git add . or <filename> : Adding file into local git repo
+git commit -m "<message>" : Committing the change made into local repo
+git remote add origin <origin git url> : To add the remote git repo
+git push -u origin master : Push the changes into remote repo
+git pull : To get any update from remote origin
+git clone <git repo url to be cloned> : To clone any repo from remote git
+
+git config user.email "<email address>" : To add email address
+git config user.name "<User name>" : To add user name
+
+pip : python package manager
+
+pip install <package name>
+ex: pip install django
