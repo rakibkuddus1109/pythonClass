@@ -24,3 +24,18 @@ To see table in database:
 
 See definition/description of table (will give details of table like column name, ):
     desc <table name>;
+
+Insert data into table:
+    insert into <table name> values (<column value>)
+
+Getting data from table:
+    select * from <table name>
+
+updating data at table:
+    update <table name> set <column name> = <updated value> where <column name> = <intended value>
+
+delete data from table:
+    delete from <table name> where <column name> = <intended value>
+    truncate <table name> -- to delete all data from table
+    drop table <table name> --  to delete the table
+    drop database <database name> -- to delete the database
